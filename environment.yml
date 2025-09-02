@@ -27,6 +27,8 @@ dependencies:
     - openai
     - anthropic
     - google-generativeai
+    - selenium
+    - webdriver-manager
     - gradio
     - gensim
     - modal
